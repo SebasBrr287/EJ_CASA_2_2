@@ -9,7 +9,7 @@ public class Modulo {
 
     // Métodos public
     public void mostrarInformacion() {
-        System.out.println("Módulo: " + nombre + " | Lenguaje: " + lenguaje + " | Versión: " + version + " | Terminado: " + terminado);
+        System.out.println("Módulo: " + nombre + " Lenguaje: " + lenguaje + " Versión: " + version + " Terminado: " + terminado);
     }
 
     public void marcarTerminado() {
